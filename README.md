@@ -4,4 +4,4 @@ To simulate asset formation, by investment (投資での資産形成のシミュ
 使用言語...Python(予定)
 実行環境...Colabolatory(予定)
 
-レポジトリを作成しただけです。これから作っていきます。
+githubと、Google Colaboratoryの練習用でもあります。
